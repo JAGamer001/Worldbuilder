@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dhpml2hqnovbl"
+path="res://.godot/imported/Explosion Debri Blocks 2.wav-353c38238a7b95964b8eee4df58fb563.sample"
+
+[deps]
+
+source_file="res://sounds/Explosion Debri Blocks 2.wav"
+dest_files=["res://.godot/imported/Explosion Debri Blocks 2.wav-353c38238a7b95964b8eee4df58fb563.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

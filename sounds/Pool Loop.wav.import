@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bfge6h2lq4bwo"
+path="res://.godot/imported/Pool Loop.wav-838b8de524c326d75663d835d5c38ca0.sample"
+
+[deps]
+
+source_file="res://sounds/Pool Loop.wav"
+dest_files=["res://.godot/imported/Pool Loop.wav-838b8de524c326d75663d835d5c38ca0.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://b2p2g0ckg5ijf"
+path="res://.godot/imported/815v Girl Ooh 06.wav-24ab94aaf81cee7bccc692f9c98e73dd.sample"
+
+[deps]
+
+source_file="res://sounds/815v Girl Ooh 06.wav"
+dest_files=["res://.godot/imported/815v Girl Ooh 06.wav-24ab94aaf81cee7bccc692f9c98e73dd.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

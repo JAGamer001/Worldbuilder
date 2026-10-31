@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dik64wwbd5rqs"
+path="res://.godot/imported/Create Block Headless.wav-40ed891bf6449984b1958049ba5807c1.sample"
+
+[deps]
+
+source_file="res://sounds/Create Block Headless.wav"
+dest_files=["res://.godot/imported/Create Block Headless.wav-40ed891bf6449984b1958049ba5807c1.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

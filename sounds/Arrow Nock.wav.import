@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bajh5vdmpfln0"
+path="res://.godot/imported/Arrow Nock.wav-83daf663fd40aa034f899d4c6b353918.sample"
+
+[deps]
+
+source_file="res://sounds/Arrow Nock.wav"
+dest_files=["res://.godot/imported/Arrow Nock.wav-83daf663fd40aa034f899d4c6b353918.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c8an3yomrt30q"
+path="res://.godot/imported/mlp_rarity_fashion is my passion.wav-bcf7559070023513ede8f13e8e5505f1.sample"
+
+[deps]
+
+source_file="res://sounds/mlp_rarity_fashion is my passion.wav"
+dest_files=["res://.godot/imported/mlp_rarity_fashion is my passion.wav-bcf7559070023513ede8f13e8e5505f1.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

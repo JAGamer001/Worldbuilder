@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://wa6exek4qaqb"
+path="res://.godot/imported/mlp_applejack_im okay.wav-e6a1df68b6e5a46a02a0dbd2260cb92c.sample"
+
+[deps]
+
+source_file="res://sounds/mlp_applejack_im okay.wav"
+dest_files=["res://.godot/imported/mlp_applejack_im okay.wav-e6a1df68b6e5a46a02a0dbd2260cb92c.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c6t0i4m20y4en"
+path="res://.godot/imported/Slider Handle Grabbed.wav-4e1844681c9b3b1cea67a957ab2b3a13.sample"
+
+[deps]
+
+source_file="res://sounds/Slider Handle Grabbed.wav"
+dest_files=["res://.godot/imported/Slider Handle Grabbed.wav-4e1844681c9b3b1cea67a957ab2b3a13.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cdm1qxqny2n84"
+path="res://.godot/imported/Meteor No Impact 4.wav-9409d34ad05ce28e4e3d49befcb46257.sample"
+
+[deps]
+
+source_file="res://sounds/Meteor No Impact 4.wav"
+dest_files=["res://.godot/imported/Meteor No Impact 4.wav-9409d34ad05ce28e4e3d49befcb46257.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

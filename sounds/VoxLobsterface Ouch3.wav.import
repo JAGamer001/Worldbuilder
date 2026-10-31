@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://6qatbhw0spsh"
+path="res://.godot/imported/VoxLobsterface Ouch3.wav-5846e25ac5877c21fe4f018bcc506415.sample"
+
+[deps]
+
+source_file="res://sounds/VoxLobsterface Ouch3.wav"
+dest_files=["res://.godot/imported/VoxLobsterface Ouch3.wav-5846e25ac5877c21fe4f018bcc506415.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

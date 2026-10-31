@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bh5m1c18sltfa"
+path="res://.godot/imported/SAM Temple Outdoor Loop.wav-7e193ec2838f9e5042c88daffb9794f9.sample"
+
+[deps]
+
+source_file="res://sounds/SAM Temple Outdoor Loop.wav"
+dest_files=["res://.godot/imported/SAM Temple Outdoor Loop.wav-7e193ec2838f9e5042c88daffb9794f9.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

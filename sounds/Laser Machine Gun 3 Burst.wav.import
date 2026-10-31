@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://b75i2gkvcy13x"
+path="res://.godot/imported/Laser Machine Gun 3 Burst.wav-dee4cbe76d2ce469309254bddbf4d199.sample"
+
+[deps]
+
+source_file="res://sounds/Laser Machine Gun 3 Burst.wav"
+dest_files=["res://.godot/imported/Laser Machine Gun 3 Burst.wav-dee4cbe76d2ce469309254bddbf4d199.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

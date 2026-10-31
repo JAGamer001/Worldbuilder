@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cl4tol26yphuh"
+path="res://.godot/imported/DNO Stegosaurus Roar Long.wav-dac3b23e446e925029e0ffc7b6c707bd.sample"
+
+[deps]
+
+source_file="res://sounds/DNO Stegosaurus Roar Long.wav"
+dest_files=["res://.godot/imported/DNO Stegosaurus Roar Long.wav-dac3b23e446e925029e0ffc7b6c707bd.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

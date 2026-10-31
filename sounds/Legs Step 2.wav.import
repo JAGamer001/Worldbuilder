@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://be6pl2xseljpm"
+path="res://.godot/imported/Legs Step 2.wav-24cc7870305e15081a9a00a7903db2cc.sample"
+
+[deps]
+
+source_file="res://sounds/Legs Step 2.wav"
+dest_files=["res://.godot/imported/Legs Step 2.wav-24cc7870305e15081a9a00a7903db2cc.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

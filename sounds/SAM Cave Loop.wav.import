@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dvngbbp2vww0v"
+path="res://.godot/imported/SAM Cave Loop.wav-77d09f1e213caf93c9998ef893ca9f20.sample"
+
+[deps]
+
+source_file="res://sounds/SAM Cave Loop.wav"
+dest_files=["res://.godot/imported/SAM Cave Loop.wav-77d09f1e213caf93c9998ef893ca9f20.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

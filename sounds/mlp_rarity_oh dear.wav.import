@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dyxl3mi4nuybl"
+path="res://.godot/imported/mlp_rarity_oh dear.wav-b5d1e5ea27b5bb418196100d42729aa4.sample"
+
+[deps]
+
+source_file="res://sounds/mlp_rarity_oh dear.wav"
+dest_files=["res://.godot/imported/mlp_rarity_oh dear.wav-b5d1e5ea27b5bb418196100d42729aa4.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

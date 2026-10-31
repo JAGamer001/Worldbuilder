@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://d126u3rrsksi8"
+path="res://.godot/imported/815v Girl Drown 01.wav-40b1a0330e1190a2b17ba2a76acc57da.sample"
+
+[deps]
+
+source_file="res://sounds/815v Girl Drown 01.wav"
+dest_files=["res://.godot/imported/815v Girl Drown 01.wav-40b1a0330e1190a2b17ba2a76acc57da.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

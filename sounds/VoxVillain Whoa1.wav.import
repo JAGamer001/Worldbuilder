@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bv1tydg55la"
+path="res://.godot/imported/VoxVillain Whoa1.wav-56694627f9a3100f418b5cc0dd28be4d.sample"
+
+[deps]
+
+source_file="res://sounds/VoxVillain Whoa1.wav"
+dest_files=["res://.godot/imported/VoxVillain Whoa1.wav-56694627f9a3100f418b5cc0dd28be4d.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

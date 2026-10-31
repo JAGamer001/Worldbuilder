@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bhvc2kgdtsfdv"
+path="res://.godot/imported/mlp_applejack_boy howdy.wav-5afb93295d570b794fb51d5cfa7d2971.sample"
+
+[deps]
+
+source_file="res://sounds/mlp_applejack_boy howdy.wav"
+dest_files=["res://.godot/imported/mlp_applejack_boy howdy.wav-5afb93295d570b794fb51d5cfa7d2971.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

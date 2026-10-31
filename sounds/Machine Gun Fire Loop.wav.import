@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://j2maientkjrt"
+path="res://.godot/imported/Machine Gun Fire Loop.wav-0fb871dc6cf57da78b4bb65bdaa1409d.sample"
+
+[deps]
+
+source_file="res://sounds/Machine Gun Fire Loop.wav"
+dest_files=["res://.godot/imported/Machine Gun Fire Loop.wav-0fb871dc6cf57da78b4bb65bdaa1409d.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

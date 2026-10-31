@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://oal5k4cigu6d"
+path="res://.godot/imported/815v Mika Yah 01.wav-43a97563848d62a9b4b5feab2eddd8e9.sample"
+
+[deps]
+
+source_file="res://sounds/815v Mika Yah 01.wav"
+dest_files=["res://.godot/imported/815v Mika Yah 01.wav-43a97563848d62a9b4b5feab2eddd8e9.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

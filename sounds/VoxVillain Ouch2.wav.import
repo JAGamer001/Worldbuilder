@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c5sh7ygg0nuu6"
+path="res://.godot/imported/VoxVillain Ouch2.wav-1948b6bf6ef8aac6f9281994805a6c7a.sample"
+
+[deps]
+
+source_file="res://sounds/VoxVillain Ouch2.wav"
+dest_files=["res://.godot/imported/VoxVillain Ouch2.wav-1948b6bf6ef8aac6f9281994805a6c7a.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

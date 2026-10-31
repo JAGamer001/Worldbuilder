@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bcpua7pvggoq8"
+path="res://.godot/imported/Wheel Engine Loop Flappy.wav-a307a90d56481f4ed18b383777ca3d65.sample"
+
+[deps]
+
+source_file="res://sounds/Wheel Engine Loop Flappy.wav"
+dest_files=["res://.godot/imported/Wheel Engine Loop Flappy.wav-a307a90d56481f4ed18b383777ca3d65.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

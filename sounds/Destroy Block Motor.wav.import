@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bk0x6v2s37x87"
+path="res://.godot/imported/Destroy Block Motor.wav-7068046a7a4979c893b80e01062abd6a.sample"
+
+[deps]
+
+source_file="res://sounds/Destroy Block Motor.wav"
+dest_files=["res://.godot/imported/Destroy Block Motor.wav-7068046a7a4979c893b80e01062abd6a.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

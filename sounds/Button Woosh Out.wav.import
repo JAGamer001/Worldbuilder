@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bdry1h20wu4vg"
+path="res://.godot/imported/Button Woosh Out.wav-c16d8a9eb02663451659d91cf91c73d0.sample"
+
+[deps]
+
+source_file="res://sounds/Button Woosh Out.wav"
+dest_files=["res://.godot/imported/Button Woosh Out.wav-c16d8a9eb02663451659d91cf91c73d0.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

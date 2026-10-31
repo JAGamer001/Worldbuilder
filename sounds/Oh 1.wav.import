@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bcx4fkr0n5ra2"
+path="res://.godot/imported/Oh 1.wav-378a76b5bfeb1ddad7761915d6851f4a.sample"
+
+[deps]
+
+source_file="res://sounds/Oh 1.wav"
+dest_files=["res://.godot/imported/Oh 1.wav-378a76b5bfeb1ddad7761915d6851f4a.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://drtpq7q7ynjs0"
+path="res://.godot/imported/DNO Pteranodon Wing Swish.wav-b340520032c869d7250e6a9e3ff570a9.sample"
+
+[deps]
+
+source_file="res://sounds/DNO Pteranodon Wing Swish.wav"
+dest_files=["res://.godot/imported/DNO Pteranodon Wing Swish.wav-b340520032c869d7250e6a9e3ff570a9.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

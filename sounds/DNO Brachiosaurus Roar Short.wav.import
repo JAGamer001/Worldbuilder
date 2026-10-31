@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dx1o68empx8nv"
+path="res://.godot/imported/DNO Brachiosaurus Roar Short.wav-63accba7d60ca9b07d986080074e2358.sample"
+
+[deps]
+
+source_file="res://sounds/DNO Brachiosaurus Roar Short.wav"
+dest_files=["res://.godot/imported/DNO Brachiosaurus Roar Short.wav-63accba7d60ca9b07d986080074e2358.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

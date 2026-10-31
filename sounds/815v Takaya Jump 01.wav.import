@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://n0nyb1pt5dnr"
+path="res://.godot/imported/815v Takaya Jump 01.wav-40b5c29092465663cb121ce384c3ccdb.sample"
+
+[deps]
+
+source_file="res://sounds/815v Takaya Jump 01.wav"
+dest_files=["res://.godot/imported/815v Takaya Jump 01.wav-40b5c29092465663cb121ce384c3ccdb.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

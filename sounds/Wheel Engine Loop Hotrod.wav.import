@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://wb0400qmx0r6"
+path="res://.godot/imported/Wheel Engine Loop Hotrod.wav-1371287de011d367541ea17a6c871961.sample"
+
+[deps]
+
+source_file="res://sounds/Wheel Engine Loop Hotrod.wav"
+dest_files=["res://.godot/imported/Wheel Engine Loop Hotrod.wav-1371287de011d367541ea17a6c871961.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

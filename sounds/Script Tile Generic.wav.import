@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cy8ikqdpolafc"
+path="res://.godot/imported/Script Tile Generic.wav-e5f7bac1991f3ed362d6f4ce5e4c3e0a.sample"
+
+[deps]
+
+source_file="res://sounds/Script Tile Generic.wav"
+dest_files=["res://.godot/imported/Script Tile Generic.wav-e5f7bac1991f3ed362d6f4ce5e4c3e0a.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

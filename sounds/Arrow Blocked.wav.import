@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cgkmrjjwem6cu"
+path="res://.godot/imported/Arrow Blocked.wav-9aef0e2f095bf47264280645a53e3bfd.sample"
+
+[deps]
+
+source_file="res://sounds/Arrow Blocked.wav"
+dest_files=["res://.godot/imported/Arrow Blocked.wav-9aef0e2f095bf47264280645a53e3bfd.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

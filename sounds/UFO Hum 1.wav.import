@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://u6sumtjgxas6"
+path="res://.godot/imported/UFO Hum 1.wav-1206bdce74be7e11f610c28740b82a9a.sample"
+
+[deps]
+
+source_file="res://sounds/UFO Hum 1.wav"
+dest_files=["res://.godot/imported/UFO Hum 1.wav-1206bdce74be7e11f610c28740b82a9a.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://crg3u5kx8s2k6"
+path="res://.godot/imported/mlp_rarity_my mane.wav-bd8efd4d8199781b222392bf0c567fdb.sample"
+
+[deps]
+
+source_file="res://sounds/mlp_rarity_my mane.wav"
+dest_files=["res://.godot/imported/mlp_rarity_my mane.wav-bd8efd4d8199781b222392bf0c567fdb.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

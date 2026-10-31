@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://5lkhg3cvfkqu"
+path="res://.godot/imported/DNO TRex Foot Stomp.wav-599cb7b5239500203f239a65ed6d1f2d.sample"
+
+[deps]
+
+source_file="res://sounds/DNO TRex Foot Stomp.wav"
+dest_files=["res://.godot/imported/DNO TRex Foot Stomp.wav-599cb7b5239500203f239a65ed6d1f2d.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

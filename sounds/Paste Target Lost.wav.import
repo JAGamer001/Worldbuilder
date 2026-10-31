@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cujmeifl8v6ii"
+path="res://.godot/imported/Paste Target Lost.wav-76e2b6ec62f46e804196c8791e1b9966.sample"
+
+[deps]
+
+source_file="res://sounds/Paste Target Lost.wav"
+dest_files=["res://.godot/imported/Paste Target Lost.wav-76e2b6ec62f46e804196c8791e1b9966.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

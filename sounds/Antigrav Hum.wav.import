@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://e4g7hwf6euw2"
+path="res://.godot/imported/Antigrav Hum.wav-35d25b23b57d1850e4adca38a321b063.sample"
+
+[deps]
+
+source_file="res://sounds/Antigrav Hum.wav"
+dest_files=["res://.godot/imported/Antigrav Hum.wav-35d25b23b57d1850e4adca38a321b063.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

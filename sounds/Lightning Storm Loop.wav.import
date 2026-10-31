@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bliiwysgm77h0"
+path="res://.godot/imported/Lightning Storm Loop.wav-962302c7af42c1d23f097e064fd8bbb3.sample"
+
+[deps]
+
+source_file="res://sounds/Lightning Storm Loop.wav"
+dest_files=["res://.godot/imported/Lightning Storm Loop.wav-962302c7af42c1d23f097e064fd8bbb3.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

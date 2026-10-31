@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://ld7vvw4fomfc"
+path="res://.godot/imported/mlp_twilight_keep it together.wav-849b3c241701af057dbd0a1ee226848a.sample"
+
+[deps]
+
+source_file="res://sounds/mlp_twilight_keep it together.wav"
+dest_files=["res://.godot/imported/mlp_twilight_keep it together.wav-849b3c241701af057dbd0a1ee226848a.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bigc2rxn7wpq7"
+path="res://.godot/imported/mlp_twilight_you are all.wav-023317fb2549db8692683c562e3a6565.sample"
+
+[deps]
+
+source_file="res://sounds/mlp_twilight_you are all.wav"
+dest_files=["res://.godot/imported/mlp_twilight_you are all.wav-023317fb2549db8692683c562e3a6565.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

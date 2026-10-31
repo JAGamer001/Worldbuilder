@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://kj1j2c2fxlbc"
+path="res://.godot/imported/DNO Pteranodon Cry Long.wav-4a2d3cb0c01849681d8670f4843fcedd.sample"
+
+[deps]
+
+source_file="res://sounds/DNO Pteranodon Cry Long.wav"
+dest_files=["res://.godot/imported/DNO Pteranodon Cry Long.wav-4a2d3cb0c01849681d8670f4843fcedd.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

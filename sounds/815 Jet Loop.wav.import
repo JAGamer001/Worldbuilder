@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://deyea0lnk5lgg"
+path="res://.godot/imported/815 Jet Loop.wav-6dd4c90e66573416521186d31c1b7266.sample"
+
+[deps]
+
+source_file="res://sounds/815 Jet Loop.wav"
+dest_files=["res://.godot/imported/815 Jet Loop.wav-6dd4c90e66573416521186d31c1b7266.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

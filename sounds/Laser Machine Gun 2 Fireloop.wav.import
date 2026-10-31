@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cg7amw3nw6j2q"
+path="res://.godot/imported/Laser Machine Gun 2 Fireloop.wav-01c9617ee2c253471e8960c532731356.sample"
+
+[deps]
+
+source_file="res://sounds/Laser Machine Gun 2 Fireloop.wav"
+dest_files=["res://.godot/imported/Laser Machine Gun 2 Fireloop.wav-01c9617ee2c253471e8960c532731356.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

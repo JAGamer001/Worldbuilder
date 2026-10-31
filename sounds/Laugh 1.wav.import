@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bq311kn1glips"
+path="res://.godot/imported/Laugh 1.wav-206f0845492da4fdffee1baa93b19912.sample"
+
+[deps]
+
+source_file="res://sounds/Laugh 1.wav"
+dest_files=["res://.godot/imported/Laugh 1.wav-206f0845492da4fdffee1baa93b19912.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

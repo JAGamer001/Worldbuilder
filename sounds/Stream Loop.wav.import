@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cmbnqrd8b7rue"
+path="res://.godot/imported/Stream Loop.wav-124b3bf505edfced3e548b4241ee923f.sample"
+
+[deps]
+
+source_file="res://sounds/Stream Loop.wav"
+dest_files=["res://.godot/imported/Stream Loop.wav-124b3bf505edfced3e548b4241ee923f.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

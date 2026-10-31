@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://il1qadkou3my"
+path="res://.godot/imported/Meteor Impact Water 4.wav-0fa72d645ea5e51e04b696fcf0919a90.sample"
+
+[deps]
+
+source_file="res://sounds/Meteor Impact Water 4.wav"
+dest_files=["res://.godot/imported/Meteor Impact Water 4.wav-0fa72d645ea5e51e04b696fcf0919a90.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

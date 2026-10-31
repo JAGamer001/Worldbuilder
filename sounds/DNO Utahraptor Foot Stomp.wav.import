@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://b352fo245c7vg"
+path="res://.godot/imported/DNO Utahraptor Foot Stomp.wav-2fd80bf80169986795f1940fd2256600.sample"
+
+[deps]
+
+source_file="res://sounds/DNO Utahraptor Foot Stomp.wav"
+dest_files=["res://.godot/imported/DNO Utahraptor Foot Stomp.wav-2fd80bf80169986795f1940fd2256600.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

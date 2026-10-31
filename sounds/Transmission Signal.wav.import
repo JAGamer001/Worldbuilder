@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c6mi1yb56ohcn"
+path="res://.godot/imported/Transmission Signal.wav-018c3d19370b20e9436786d43cd3ae9e.sample"
+
+[deps]
+
+source_file="res://sounds/Transmission Signal.wav"
+dest_files=["res://.godot/imported/Transmission Signal.wav-018c3d19370b20e9436786d43cd3ae9e.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2
