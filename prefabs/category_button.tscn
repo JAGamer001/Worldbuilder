@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://k3mebn12fhp1"]
+
+[ext_resource type="Texture2D" uid="uid://bink4562bvjys" path="res://textures/test.png" id="1_fncql"]
+
+[node name="Button" type="Button" unique_id=1733592030]
+size_flags_vertical = 3
+icon = ExtResource("1_fncql")
+expand_icon = true
