@@ -1,0 +1,19 @@
+[gd_scene format=3 uid="uid://cmhxddq4mohjx"]
+
+[node name="Section" type="VBoxContainer" unique_id=1428897295]
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="Label" type="Label" parent="." unique_id=788573981]
+layout_mode = 2
+theme_override_font_sizes/font_size = 40
+text = "nullString"
+horizontal_alignment = 1
+
+[node name="GridContainer" type="GridContainer" parent="." unique_id=379136951]
+layout_mode = 2
+columns = 3
+
+[node name="Button" type="Button" parent="GridContainer" unique_id=1458432140]
+layout_mode = 2
+text = "Something"

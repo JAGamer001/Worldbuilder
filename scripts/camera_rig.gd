@@ -14,19 +14,19 @@ func get_mouse_scale_factor() -> float:
 
 func _input(event):
 	if event is InputEventMouseMotion:
-		var scale = get_mouse_scale_factor()
+		var mScale = get_mouse_scale_factor()
 		
 		# rotation
 		if Input.is_action_pressed("cam_rotate"):
-			rotate_y(-event.relative.x * rotate_sensitivity * scale)
-			pitch.rotation.x -= event.relative.y * rotate_sensitivity * scale
+			rotate_y(-event.relative.x * rotate_sensitivity * mScale)
+			pitch.rotation.x -= event.relative.y * rotate_sensitivity * mScale
 			pitch.rotation.x = clamp(pitch.rotation.x, deg_to_rad(-89), deg_to_rad(89))
 		
 		# pan
 		if Input.is_action_pressed("cam_pan"):
 			var right = global_transform.basis.x
 			var up = pitch.global_transform.basis.y
-			global_position += (-right * event.relative.x + up * event.relative.y) * pan_sensitivity * scale
+			global_position += (-right * event.relative.x + up * event.relative.y) * pan_sensitivity * mScale
 
 
 func _process(delta):

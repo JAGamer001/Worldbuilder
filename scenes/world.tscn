@@ -1,12 +1,8 @@
 [gd_scene format=3 uid="uid://3qcppmcr1ill"]
 
-[ext_resource type="Script" uid="uid://bcrn4ibwdxb7l" path="res://scripts/camera_rig.gd" id="1_4wyf3"]
 [ext_resource type="Texture2D" uid="uid://bink4562bvjys" path="res://textures/test.png" id="1_rwgxs"]
-[ext_resource type="PackedScene" uid="uid://cv7y1th0xkkyx" path="res://prefabs/editor_hud.tscn" id="3_4wyf3"]
-
-[sub_resource type="BoxMesh" id="BoxMesh_nnsk1"]
-
-[sub_resource type="BoxShape3D" id="BoxShape3D_rwgxs"]
+[ext_resource type="PackedScene" uid="uid://b5wxpoiiefx12" path="res://prefabs/camera.tscn" id="2_4wyf3"]
+[ext_resource type="PackedScene" uid="uid://cv7y1th0xkkyx" path="res://prefabs/gui/editor_hud.tscn" id="3_4wyf3"]
 
 [sub_resource type="PanoramaSkyMaterial" id="PanoramaSkyMaterial_hylyb"]
 panorama = ExtResource("1_rwgxs")
@@ -20,13 +16,23 @@ sky = SubResource("Sky_e37wx")
 ambient_light_source = 3
 ssao_enabled = true
 
+[sub_resource type="BoxMesh" id="BoxMesh_nnsk1"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_rwgxs"]
+
+[sub_resource type="PlaneMesh" id="PlaneMesh_k0juu"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_4wyf3"]
+size = Vector3(2, 0, 2)
+
 [node name="World" type="Node3D" unique_id=1889521288]
 
-[node name="GridMap" type="GridMap" parent="." unique_id=592759750]
-cell_size = Vector3(1, 1, 1)
+[node name="Enviro" type="WorldEnvironment" parent="." unique_id=293082365]
+environment = SubResource("Environment_nnsk1")
 
 [node name="TestCube" type="StaticBody3D" parent="." unique_id=1247924053]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -1.1790805, -4.5066304)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, -6)
+metadata/_edit_group_ = true
 
 [node name="Mesh" type="MeshInstance3D" parent="TestCube" unique_id=1566496953]
 mesh = SubResource("BoxMesh_nnsk1")
@@ -34,20 +40,23 @@ mesh = SubResource("BoxMesh_nnsk1")
 [node name="Collider" type="CollisionShape3D" parent="TestCube" unique_id=405160480]
 shape = SubResource("BoxShape3D_rwgxs")
 
-[node name="WorldEnvironment" type="WorldEnvironment" parent="." unique_id=293082365]
-environment = SubResource("Environment_nnsk1")
-
 [node name="Sun" type="DirectionalLight3D" parent="." unique_id=2053929537]
 transform = Transform3D(0.8855721, -0.39120722, 0.25043768, 0.13266398, 0.7297102, 0.6707632, -0.4451544, -0.5607851, 0.69811004, 0, 0, 0)
 shadow_enabled = true
+shadow_blur = 0.0
+directional_shadow_blend_splits = true
 
-[node name="CameraRig" type="Node3D" parent="." unique_id=519852097]
-script = ExtResource("1_4wyf3")
-
-[node name="Pitch" type="Node3D" parent="CameraRig" unique_id=234674788]
-
-[node name="Camera3D" type="Camera3D" parent="CameraRig/Pitch" unique_id=2139165215]
+[node name="Cam" parent="." unique_id=1290889784 instance=ExtResource("2_4wyf3")]
 
 [node name="GUI" type="CanvasLayer" parent="." unique_id=1378368865]
 
 [node name="EditorHUD" parent="GUI" unique_id=542601307 instance=ExtResource("3_4wyf3")]
+
+[node name="StaticBody3D" type="StaticBody3D" parent="." unique_id=2011713363]
+transform = Transform3D(50, 0, 0, 0, 1, 0, 0, 0, 50, 0, 0, 0)
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="StaticBody3D" unique_id=50210092]
+mesh = SubResource("PlaneMesh_k0juu")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="StaticBody3D" unique_id=1736333466]
+shape = SubResource("BoxShape3D_4wyf3")
