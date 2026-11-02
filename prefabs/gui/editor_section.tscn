@@ -1,8 +1,11 @@
 [gd_scene format=3 uid="uid://cmhxddq4mohjx"]
 
+[ext_resource type="PackedScene" uid="uid://badxpehorbe8e" path="res://prefabs/gui/editor_toolboxEntry.tscn" id="1_fwwag"]
+
 [node name="Section" type="VBoxContainer" unique_id=1428897295]
 offset_right = 40.0
 offset_bottom = 40.0
+theme_override_constants/separation = 10
 
 [node name="Label" type="Label" parent="." unique_id=788573981]
 layout_mode = 2
@@ -12,8 +15,43 @@ horizontal_alignment = 1
 
 [node name="GridContainer" type="GridContainer" parent="." unique_id=379136951]
 layout_mode = 2
-columns = 3
+size_flags_horizontal = 4
+size_flags_vertical = 4
+theme_override_constants/h_separation = 16
+theme_override_constants/v_separation = 16
+columns = 5
 
-[node name="Button" type="Button" parent="GridContainer" unique_id=1458432140]
+[node name="Button" parent="GridContainer" unique_id=1396118069 instance=ExtResource("1_fwwag")]
 layout_mode = 2
-text = "Something"
+size_flags_horizontal = 4
+size_flags_vertical = 4
+
+[node name="Button2" parent="GridContainer" unique_id=456666291 instance=ExtResource("1_fwwag")]
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+
+[node name="Button3" parent="GridContainer" unique_id=1962425362 instance=ExtResource("1_fwwag")]
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+
+[node name="Button4" parent="GridContainer" unique_id=816655914 instance=ExtResource("1_fwwag")]
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+
+[node name="Button5" parent="GridContainer" unique_id=2045656992 instance=ExtResource("1_fwwag")]
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+
+[node name="Button6" parent="GridContainer" unique_id=324242160 instance=ExtResource("1_fwwag")]
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+
+[node name="Button7" parent="GridContainer" unique_id=995891460 instance=ExtResource("1_fwwag")]
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4

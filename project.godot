@@ -12,6 +12,8 @@ config_version=5
 
 config/name="Worldbuilder"
 run/main_scene="uid://3qcppmcr1ill"
+config/use_custom_user_dir=true
+config/custom_user_dir_name="Worldbuilder"
 config/features=PackedStringArray("4.8", "Forward Plus")
 run/max_fps=60
 boot_splash/show_image=false
@@ -21,6 +23,7 @@ config/icon="res://icon.svg"
 [autoload]
 
 Reusables="*uid://ch4hih06b0ky4"
+CustomContent="*uid://ch82ut2o3a0h8"
 
 [display]
 

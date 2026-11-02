@@ -13,6 +13,7 @@ func category_setup():
 	var categories = Reusables.load_json_file("res://data/categories.json")
 	var parent := get_node(toolbox)
 	
+	# category population
 	for category in categories:
 		var node := category_scene.instantiate()
 		var icon_file = "res://textures/" + category.get("icon", "")
@@ -23,6 +24,7 @@ func category_setup():
 		
 		var sections = category.get("sections", [])
 		
+		# section population
 		for data in sections:
 			var section := section_scene.instantiate()
 			
@@ -36,6 +38,7 @@ func tool_setup():
 	var tools = Reusables.load_json_file("res://data/tools.json")
 	var parent := get_node("Toolbar")
 	
+	# tool population
 	for tool in tools:
 		var node := tool_scene.instantiate()
 		var icon_file = "res://textures/" + tool.get("icon", "")

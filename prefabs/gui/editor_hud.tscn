@@ -2,6 +2,11 @@
 
 [ext_resource type="Script" uid="uid://dcy3eflysbgsq" path="res://scripts/editor_hud.gd" id="1_tdmxh"]
 [ext_resource type="Texture2D" uid="uid://cc5tqww81877j" path="res://textures/icons/play.png" id="2_hbk7p"]
+[ext_resource type="Texture2D" uid="uid://yp7iu0iujwaq" path="res://textures/icons/undo.png" id="3_o7so7"]
+[ext_resource type="Texture2D" uid="uid://dosefb23ppys5" path="res://textures/icons/redo.png" id="4_8c15f"]
+[ext_resource type="Texture2D" uid="uid://byxi3sm1p2x11" path="res://textures/icons/scissors.png" id="5_qb16y"]
+[ext_resource type="Texture2D" uid="uid://c2siax8wl7w1q" path="res://textures/icons/copy.png" id="6_dgpkn"]
+[ext_resource type="Texture2D" uid="uid://btn0hvha5xfsl" path="res://textures/icons/paste.png" id="7_ckgli"]
 
 [node name="EditorHUD" type="Control" unique_id=542601307]
 layout_mode = 3
@@ -18,7 +23,7 @@ anchors_preset = 11
 anchor_left = 1.0
 anchor_right = 1.0
 anchor_bottom = 1.0
-offset_left = -572.0
+offset_left = -508.0
 grow_horizontal = 0
 grow_vertical = 2
 theme_override_constants/side_margin = 0
@@ -40,11 +45,49 @@ grow_vertical = 0
 
 [node name="ExtraButtons" type="HBoxContainer" parent="." unique_id=1543124389]
 layout_mode = 1
-offset_right = 607.0
-offset_bottom = 83.0
+offset_left = 23.0
+offset_top = 22.0
+offset_right = 592.0
+offset_bottom = 105.0
 
 [node name="PlayBuild" type="Button" parent="ExtraButtons" unique_id=132589006]
 layout_mode = 2
 size_flags_horizontal = 3
 theme_override_constants/icon_max_width = 75
 icon = ExtResource("2_hbk7p")
+icon_alignment = 1
+
+[node name="Undo" type="Button" parent="ExtraButtons" unique_id=857091125]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_constants/icon_max_width = 75
+icon = ExtResource("3_o7so7")
+icon_alignment = 1
+
+[node name="Redo" type="Button" parent="ExtraButtons" unique_id=367010772]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_constants/icon_max_width = 75
+icon = ExtResource("4_8c15f")
+icon_alignment = 1
+
+[node name="Cut" type="Button" parent="ExtraButtons" unique_id=501615523]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_constants/icon_max_width = 75
+icon = ExtResource("5_qb16y")
+icon_alignment = 1
+
+[node name="Copy" type="Button" parent="ExtraButtons" unique_id=1623286927]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_constants/icon_max_width = 75
+icon = ExtResource("6_dgpkn")
+icon_alignment = 1
+
+[node name="Paste" type="Button" parent="ExtraButtons" unique_id=1408512407]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_constants/icon_max_width = 75
+icon = ExtResource("7_ckgli")
+icon_alignment = 1
