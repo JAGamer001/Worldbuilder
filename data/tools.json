@@ -1,0 +1,26 @@
+[
+	{
+		"name":"Measuring Tape Tool",
+		"icon":"icons/measuringTape.png"
+	},
+	{
+		"name":"Hammer Tool",
+		"icon":"icons/hammer.png"
+	},
+	{
+		"name":"Paint Brush Tool",
+		"icon":"icons/paintbrush.png"
+	},
+	{
+		"name":"Trowel Tool",
+		"icon":"icons/trowel.png"
+	},
+	{
+		"name":"Wrench Tool",
+		"icon":"icons/wrench.png"
+	},
+	{
+		"name":"Lasso Tool",
+		"icon":"icons/lasso.png"
+	}
+]

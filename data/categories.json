@@ -4,15 +4,35 @@
 		"icon":"icons/shapes.png",
 		"sections":
 			[
-				"Primitives"
+				"Basic",
+				"Advanced"
 			]
 	},
 	{
-		"name":"Props",
-		"icon":"test.png",
+		"name":"Materials",
+		"icon":"icons/shapes.png",
 		"sections":
 			[
-				"Doo doo"
+				"Terrain"
+			]
+	},
+	{
+		"name":"Sounds",
+		"icon":"icons/sound.png",
+		"sections":
+			[
+				"People",
+				"Objects"
+			]
+	},
+	{
+		"name":"Colors",
+		"icon":"icons/paint.png",
+		"sections":
+			[
+				"Basics",
+				"Grayscale",
+				"Neons"
 			]
 	}
 ]

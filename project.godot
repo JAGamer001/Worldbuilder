@@ -18,6 +18,10 @@ boot_splash/show_image=false
 boot_splash/use_filter=false
 config/icon="res://icon.svg"
 
+[autoload]
+
+Reusables="*uid://ch4hih06b0ky4"
+
 [display]
 
 window/size/viewport_width=1920
@@ -416,4 +420,5 @@ arrows_right={
 
 [rendering]
 
+textures/canvas_textures/default_texture_filter=0
 rendering_device/driver.windows="d3d12"
