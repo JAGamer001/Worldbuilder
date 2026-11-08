@@ -37,7 +37,7 @@ Join the Discord server: https://discord.com/invite/akwqENkYBv
 17. Click on the "Pull requests" tab, and click the green "New pull request" button.
 18. Review the changes being submitted. Make sure the base repository is the official Worldbuilder repository, and the base branch is main.
 19. Give your pull request an appropriate title and description. Click "Create pull request".
-20. Patiently wait for me to eventually merge your fork with the engine.
+20. Patiently wait for me to eventually merge your fork with the main branch.
 
 # OFFICIAL CONTRIBUTION GUIDE (LINUX, WIP):
 1. [Create a GitHub account](https://github.com/signup) if you do not have one.
