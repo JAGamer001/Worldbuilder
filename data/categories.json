@@ -34,5 +34,15 @@
 				"Grayscale",
 				"Neons"
 			]
+	},
+	{
+		"name":"Particles",
+		"icon":"icons/paint.png",
+		"sections":
+			[
+				"Fire",
+				"Water",
+				"Explosion"
+			]
 	}
 ]
